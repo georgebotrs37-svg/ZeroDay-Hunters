@@ -172,4 +172,3 @@ Java Tutorial • Computer Networks • C++ for C Programmers • Interactive Pr
 
 ---
 
-*جزء من مصادر الأمن السيبراني وعلوم الحاسب المجانية في هذا الريبو. لو عندك اقتراحات أو مصادر تانية، افتح Issue أو ساهم مباشرة في الـ repo.*
