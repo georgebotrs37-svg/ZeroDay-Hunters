@@ -103,9 +103,7 @@ https://drive.google.com/drive/mobile/folders/1fXAUIsAXvLB-pBpYDpya7ah7dX6qXliY?
 
 -----
 
-https://github.com/0XAl3aref/Soc.Team.Resources/?fbclid=IwY2xjawGFQJhleHRuA2FlbQIxMQABHY_AB-OFpZ-UMJm3zw0hppO0zKV4pimc7_IWlMLu--i7HdTdF1tRgPyTFA_aem_AHd_5mts-TB4ipT0spFoOg
 
------
 
 https://drive.google.com/drive/folders/1baa583QJW3AUOFVIEmUV3e-fzSwds9KL
 
